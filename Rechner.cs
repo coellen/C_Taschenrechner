@@ -9,6 +9,8 @@ namespace C_Taschenrechner
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hier ist Jürgen");
             Console.WriteLine("die zweite Zeile");
+            Console.WriteLine("dritte Zeile");
+            Console.WriteLine("vierte Zeile");
         }
     }
 }

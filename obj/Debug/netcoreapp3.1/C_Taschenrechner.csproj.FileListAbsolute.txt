@@ -1,0 +1,13 @@
+D:\adaten\VisualStudio\C_Taschenrechner\bin\Debug\netcoreapp3.1\C_Taschenrechner.exe
+D:\adaten\VisualStudio\C_Taschenrechner\bin\Debug\netcoreapp3.1\C_Taschenrechner.deps.json
+D:\adaten\VisualStudio\C_Taschenrechner\bin\Debug\netcoreapp3.1\C_Taschenrechner.runtimeconfig.json
+D:\adaten\VisualStudio\C_Taschenrechner\bin\Debug\netcoreapp3.1\C_Taschenrechner.runtimeconfig.dev.json
+D:\adaten\VisualStudio\C_Taschenrechner\bin\Debug\netcoreapp3.1\C_Taschenrechner.dll
+D:\adaten\VisualStudio\C_Taschenrechner\bin\Debug\netcoreapp3.1\C_Taschenrechner.pdb
+D:\adaten\VisualStudio\C_Taschenrechner\obj\Debug\netcoreapp3.1\C_Taschenrechner.csprojAssemblyReference.cache
+D:\adaten\VisualStudio\C_Taschenrechner\obj\Debug\netcoreapp3.1\C_Taschenrechner.AssemblyInfoInputs.cache
+D:\adaten\VisualStudio\C_Taschenrechner\obj\Debug\netcoreapp3.1\C_Taschenrechner.AssemblyInfo.cs
+D:\adaten\VisualStudio\C_Taschenrechner\obj\Debug\netcoreapp3.1\C_Taschenrechner.csproj.CoreCompileInputs.cache
+D:\adaten\VisualStudio\C_Taschenrechner\obj\Debug\netcoreapp3.1\C_Taschenrechner.dll
+D:\adaten\VisualStudio\C_Taschenrechner\obj\Debug\netcoreapp3.1\C_Taschenrechner.pdb
+D:\adaten\VisualStudio\C_Taschenrechner\obj\Debug\netcoreapp3.1\C_Taschenrechner.genruntimeconfig.cache
