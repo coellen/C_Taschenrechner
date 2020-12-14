@@ -7,6 +7,7 @@ namespace C_Taschenrechner
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hier ist Jürgen");
         }
     }
 }
