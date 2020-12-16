@@ -10,7 +10,10 @@ namespace C_Taschenrechner
             Console.WriteLine("Hier ist Jürgen");
             Console.WriteLine("die zweite Zeile");
             Console.WriteLine("dritte Zeile");
+<<<<<<< HEAD
             Console.WriteLine("vierte Zeile");
+=======
+>>>>>>> master/master
         }
     }
 }
